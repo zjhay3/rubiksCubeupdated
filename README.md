@@ -1,5 +1,5 @@
 # rubiks_Cube
-This is a simulation of rubics cube in python
+This is a simulation of rubiks cube in python
 requirements:
 1. numpy
 2. vpython
